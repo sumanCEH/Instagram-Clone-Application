@@ -1,21 +1,16 @@
+# koolhabbit
 
+A new Flutter project.
 
+## Getting Started
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
- </head>
-<body>
-  
-<div class="container">
-  <h1>Instagram-Clone-Application</h1> 
-  <img src="https://i.ytimg.com/vi/Z9fsyhKHWDg/maxresdefault.jpg" class="img-responsive" alt="Cinque Terre" width="804" height="636" style=""> 
-  <h2>Collage Major Project </h2>
-</div>
+This project is a starting point for a Flutter application.
 
-</body>
-</html>
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
